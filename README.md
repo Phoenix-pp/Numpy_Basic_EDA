@@ -1,6 +1,5 @@
 # numpy_Basic_EDA
-    Array Creation: NumPy provides functions for creating arrays of various shapes and dimensions. Some of the most commonly used functions are:
-
+Array Creation: NumPy provides functions for creating arrays of various shapes and dimensions. Some of the most commonly used functions are:
     np.array():  
     np.zeros():  
     np.ones():  
@@ -8,6 +7,10 @@
     np.arange(): 
     np.linspace(): 
     np.eye(): 
+    np.random.rand():  
+    np.random.randn():  
+    np.random.randint():  
+    np.random.shuffle():  
    
    Mathematical Functions: NumPy provides a wide range of mathematical functions for performing operations on arrays. Some of the most commonly used functions are:
     np.add(): 
@@ -33,19 +36,12 @@ Linear Algebra Functions: NumPy provides functions for performing linear algebra
     np.linalg.det():  
     np.linalg.eig():  
     
-    Statistical Functions: NumPy provides various statistical functions for analyzing data. Some of the most commonly used functions are:
-
+Statistical Functions: NumPy provides various statistical functions for analyzing data. Some of the most commonly used functions are:
     np.mean():  
     np.median():  
     np.std():  
     np.var():  
     np.corrcoef():  
 
-Random Number Functions: NumPy provides functions for generating random numbers for simulations and statistical analysis. Some of the most commonly used functions are:
-
-    np.random.rand():  
-    np.random.randn():  
-    np.random.randint():  
-    np.random.shuffle():  
 EDA with Numpy
   
